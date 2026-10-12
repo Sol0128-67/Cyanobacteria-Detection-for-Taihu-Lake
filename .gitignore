@@ -1,0 +1,14 @@
+# 卫星影像数据(体积巨大,不上传 GitHub)
+data/
+
+# Python 虚拟环境
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# 临时/缓存
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

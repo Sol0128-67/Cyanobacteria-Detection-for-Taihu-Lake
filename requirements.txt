@@ -1,0 +1,7 @@
+earthengine-api
+requests
+numpy
+opencv-python
+matplotlib
+tifffile
+imagecodecs
